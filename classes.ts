@@ -4,7 +4,7 @@ class Spacecraft{
         console.log(`Entrando no hyperespaço com ${this.propulsor}`)
     }
 }
-//teste
+//teste.
 let ship = new Spacecraft('hyperdrive');
 ship.jumpIntoHyperSpace();
 
